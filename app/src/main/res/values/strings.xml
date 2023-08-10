@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="do_it_now">Do it now</string>
+</resources>
